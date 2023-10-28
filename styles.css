@@ -12,6 +12,10 @@ body{
 	margin-bottom: 100px;
 }
 
+.book>div{
+	border-radius: 50px;
+}
+
 h1{
 	text-align: center;
 }
