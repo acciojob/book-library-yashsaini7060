@@ -6,15 +6,15 @@ body{
 	width: 500px;
 	background:#ffffff;
 	box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+	border-radius: 50px;
+	
 }
 
 .book{
 	margin-bottom: 100px;
 }
 
-.book>div{
-	border-radius: 50px;
-}
+
 
 h1{
 	text-align: center;
@@ -24,7 +24,8 @@ p{
 	color: #777777;
 }
 
-button{
+.book>div{
+	border-radius: 50px;
 	color: white;
 	background: #2ecc71;
 	border: none;
