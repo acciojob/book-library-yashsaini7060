@@ -3,11 +3,17 @@ body{
 	background: #f8f8f8;
 }
 .book-library{
+	width: 500px;
 	background:#ffffff;
+	box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
 
 .book{
 	margin-bottom: 100px;
+}
+
+h1{
+	text-align: center;
 }
 
 p{
