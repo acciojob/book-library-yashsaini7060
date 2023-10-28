@@ -1,20 +1,27 @@
-body {
-	background-color: #f8f8f8;
-	font-family: sans-serif;
+/*  your css code here. If applicable */
+body{
+	background: #f8f8f8;
+}
+.book-library{
+	width: 500px;
+	background:#ffffff;
+	box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
 
-
-.library {
-	background-color: #ffffff;
-	width: 100%;
-	height: 25px;
+.book{
+	margin-bottom: 100px;
 }
 
+h1{
+	text-align: center;
+}
 
-.author {
+p{
 	color: #777777;
 }
 
-.price-block {
-	background-color: #2ecc71;
+button{
+	color: white;
+	background: #2ecc71;
+	border: none;
 }
